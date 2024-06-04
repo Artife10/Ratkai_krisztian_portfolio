@@ -1,0 +1,35 @@
+body{
+    background-image: url('ExoMoth.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+#header{
+    margin-left: -20px;
+    margin-top: -10px;
+    width: 120%;
+    height: 200px;
+    background-color: rgb(228, 131, 131);
+    image-rendering: pixelated;
+    border-style: solid;
+    border-color: white;
+    opacity: 0%;
+}
+#szoveg{
+    color: white;
+    text-align: center;
+}
+#szar{
+    list-style-type: none;
+}
+#kien{
+    border-style: solid;
+    border-width: 2px;
+    width: 40%;
+    margin-left: 10%;
+    background-image: url(noisy2.png);
+}
+#wawa{
+    font-size: 12pt;
+    color: rgb(247, 109, 109);
+}
