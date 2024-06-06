@@ -1,8 +1,7 @@
 body{
-    background-image: url('ExoMoth.png');
-    background-repeat: no-repeat;
-    background-size: fill;
-    background-attachment: fixed;
+    background-image: url(noisy.png);
+    background-size: 120%;
+    image-rendering: pixelated;
 }
 #header{
     margin-left: -20px;
@@ -28,6 +27,7 @@ body{
     width: 40%;
     margin-left: 10%;
     background-image: url(noisy2.png);
+    image-rendering: pixelated;
 }
 #wawa{
     font-size: 12pt;
