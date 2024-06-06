@@ -1,7 +1,7 @@
 body{
     background-image: url('ExoMoth.png');
-    background-repeat: fill;
-    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: fill;
     background-attachment: fixed;
 }
 #header{
